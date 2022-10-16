@@ -1,3 +1,3 @@
 # bibimbot
 
-Enjoy while the bot is still hot
+🌾 Enjoy while the bot is still hot
